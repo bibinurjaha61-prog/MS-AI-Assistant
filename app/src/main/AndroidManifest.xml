@@ -7,7 +7,7 @@
     <application
         android:allowBackup="true"
         android:label="MS AI Assistant"
-        android:theme="@style/Theme.MSAIAssistant">
+        android:theme="@style/Theme.MSAAssistant">
 
         <activity
             android:name=".MainActivity"
